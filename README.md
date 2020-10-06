@@ -1,9 +1,9 @@
 # Post-Modern Portfolio Analysis
 
 
-** To see the interactive version on the notebook click <a href ="https://nbviewer.jupyter.org/github/AnnonymousRacoon/Post_Moder_Portfolio_Analysis/blob/main/Post_Modern_Portfolio_Analysis.ipynb">here</a>**
+** To see the interactive version on the notebook click <a href ="https://nbviewer.jupyter.org/github/AnnonymousRacoon/Post_Modern_Portfolio_Analysis/blob/main/Post_Modern_Portfolio_Analysis.ipynb">here</a>**
 
-<img src = "https://github.com/AnnonymousRacoon/Post_Moder_Portfolio_Analysis/blob/main/Efficient_Frontier.png">
+<img src = "https://github.com/AnnonymousRacoon/Post_Modern_Portfolio_Analysis/blob/main/Efficient_Frontier.png">
 
 In this project we'll take a look 20 Stocks from NASDAQ index and select an optimal portfolio. We'll start off by using modern portfolio theory (<a href = "https://www.investopedia.com/terms/m/modernportfoliotheory.asp">MFT</a>) to find the efficient frontier, and switch to the post-modern varient (<a href = "https://www.investopedia.com/terms/p/pmpt.asp">MFT</a>) for improved results. To make for a more holistic approach we then look at some of the outliers and do some some real world research to better understand them. Finally we will consider diversification and then select our portfolio accordingly.
 
